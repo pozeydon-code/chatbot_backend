@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "hola",
+    "Answer": "¡Hola! ¿En qué puedo ayudarte?"
+  },
+  {
+    "Question": "adios",
+    "Answer": "Hasta luego, ¡que tengas un buen día!"
+  },
+  {
+    "Question": "como estas",
+    "Answer": "Estoy bien, gracias por preguntar. ¿En qué más puedo ayudarte?"
+  },
+  {
+    "Question": "horarios",
+    "Answer": "Estamos disponibles de lunes a viernes, de 9 a 18 hrs."
+  }
+]

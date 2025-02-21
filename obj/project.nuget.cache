@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YYYTO0Ug00cRstQdBHF+K2OPq9OUKk4cwLEruS06sJfjjm0d2pkKZT4sxOVqoAzBFnDPdi4xQz5dqcloKQskdA==",
+  "success": true,
+  "projectFilePath": "/home/fherrera/projects/ChatBot/API_ChatBot/API_ChatBot.csproj",
+  "expectedPackageFiles": [
+    "/home/fherrera/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/fherrera/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/fherrera/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/home/fherrera/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/home/fherrera/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/home/fherrera/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
